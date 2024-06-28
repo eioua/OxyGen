@@ -21,3 +21,4 @@
 ### 正式版预计2024/10前完成全部内容
 ### 2024/12开始更新补丁
 
+下载 >https://github.com/eioua/OxyGen/blob/main/OXYGEN%20%201.X.pptm
